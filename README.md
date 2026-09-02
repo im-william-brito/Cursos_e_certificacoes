@@ -18,7 +18,7 @@ Bem-vindo ao meu repositório de aprendizado contínuo! Aqui concentro minhas an
 | **Segurança de Rede: firewall, WAF e SIEM** | Alura | 10h | Proteção de perímetro, Firewall, WAF, SIEM e monitoramento de redes | [Visualizar PDF](./WILLIAM%20RIBEIRO%20DE%20BRITO%20-%20Curso%20Segurança%20de%20rede_%20firewall,%20WAF%20e%20SIEM%20-%20Alura.pdf) |
 | **Segurança da Informação para todos** | Alura | 10h | Proteção de dados, engenharia social, ameaças cibernéticas e segurança corporativa | [Visualizar PDF](https://github.com/im-william-brito/Cursos_e_certificacoes/blob/main/WILLIAM%20RIBEIRO%20DE%20BRITO%20-%20Curso%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20para%20todos_%20Proteja%20voc%C3%AA%20e%20sua%20empresa%20contra%20amea%C3%A7as%20cibern%C3%A9ticas%20-%20Alura.pdf) |
 | **CyBBer em Foco** | Alura | 2h | Conscientização digital, boas práticas de segurança e cibersegurança | [Visualizar PDF](./WILLIAM%20RIBEIRO%20DE%20BRITO%20-%20Curso%20CyBBer%20em%20Foco%20-%20Alura.pdf) |
-| **Curso Básico de TI** | SENAI | - | Redes, Infraestrutura, Linux, Hardware, Software e Protocolo TCP/IP | - |
+| **Curso Básico de TI** | SENAI | 240h | Redes, Infraestrutura, Linux, Hardware, Software e Protocolo TCP/IP | - |
 | **Curso de Segurança do Trabalho** | Prime Cursos | - | Normas regulamentadoras, prevenção de acidentes e segurança operacional | - |
 
 ---
@@ -34,7 +34,7 @@ Bem-vindo ao meu repositório de aprendizado contínuo! Aqui concentro minhas an
 ### 💻 Desenvolvimento Web & Programação
 | Curso | Instituição | Carga Horária | Principais Tópicos | Comprovante |
 | :--- | :--- | :---: | :--- | :---: |
-| **Desenvolvimento Web** | SENAI | - | Lógica de Programação (Pascal), Java, HTML, CSS e Banco de Dados MySQL | - |
+| **Desenvolvimento Web** | SENAI | 840h | Lógica de Programação (Pascal), Java, HTML, CSS e Banco de Dados MySQL | - |
 
 ---
 
